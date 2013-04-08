@@ -3,6 +3,12 @@ Beats
 
 A command line application developed in Java programming language. The main purpose of this project is to act as a qualification test of mastering of Java.
 
+# Note for submit your programming test !!!
+
+ * Fork me and use pull request to submit changes to `develop` branch. Anything unclear about the feature, fire issue on github.
+ * You should submit your source code and pom file
+ * Remember this is the only place to submit your code, not by email. Tip: do some basic learning for github
+
 
 # Requirement
 
@@ -102,20 +108,24 @@ Browse and modify a JSON data structure with `ls`,`cd`,`cat`, `add`, `remove`
 * project must be managed by [Maven](http://maven.apache.org/), latest version of v3
 
 * unit test is a must
-  * coverage should be higher than 85%, and [Cobertura](http://cobertura.sourceforge.net/)
-    should be use to measure
+
+  * because we want to see how you test your application
 
 * javadoc for public interface/class/method is a must
 
 * Java code should be well-formatted
+
   * __NEVER__ use `tab` for indentation
 
+
 * JSON should be used as backend persistent storage
+
   * You are welcome to use any JSON lib you want
 
 * [`ExecutorService`](http://docs.oracle.com/javase/6/docs/api/java/util/concurrent/ExecutorService.html) should be used to handle commands
 
 * [Maven assembly plugin](http://maven.apache.org/plugins/maven-assembly-plugin/) should be used to assemble the application as runable jar
+
   * `mvn clean install`, then everything should be ready, and one can find assembled application
     under `target` folder
 
@@ -123,7 +133,4 @@ Browse and modify a JSON data structure with `ls`,`cd`,`cat`, `add`, `remove`
 
 * if there is any fault in this readme, please also fix it or submit an issue
 
-# Note
 
- * Fork me and use pull request to submit changes to `develop` branch. Anything unclear about the feature, fire issue.
- * You should submit your source code and pom file
