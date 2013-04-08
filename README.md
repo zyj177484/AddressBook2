@@ -7,7 +7,7 @@ A command line application developed in Java programming language. The main purp
 
  * Fork me and use pull request to submit changes to `develop` branch. Anything unclear about the feature, fire issue on github.
  * You should submit your source code and pom file
- * Remember this is the only place to submit your code, not by email. Tip: do some basic learning for github
+ * Remember this is the only place to submit your code, not by email. Tip: do some basic learning of github
 
 
 # Requirement
