@@ -1,4 +1,4 @@
-Beats
+AddressBook2
 =====
 
 A command line application developed in C++ programming language.
