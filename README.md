@@ -3,7 +3,7 @@ Beats
 
 A command line application developed in Java programming language. The main purpose of this project is to act as a qualification test of mastering of Java.
 
-# Note for submit your programming test !!!
+# Note!!! (For submit your code)
 
  * Fork me and use pull request to submit changes to `develop` branch. Anything unclear about the feature, fire issue on github.
  * You should submit your source code and pom file
