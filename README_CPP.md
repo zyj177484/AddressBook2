@@ -38,7 +38,7 @@ Browse and modify a JSON data structure with `ls`,`cd`,`cat`, `add`, `remove`
 
 * start interactive command line application
 
-    `sh> java -jar ab.jar`
+    `sh> ./ab`
 
     `ab> _`
     
@@ -132,8 +132,3 @@ Browse and modify a JSON data structure with `ls`,`cd`,`cat`, `add`, `remove`
  
 * if there is any fault in this readme, please also fix it or submit an issue
  
-# Note
- 
- * Fork me and use pull request to submit changes to `develop` branch. Anything unclear about the feature, fire issue.
- * You should submit your source code
-
